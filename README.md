@@ -1,13 +1,17 @@
-## Doktor Blechle
+# Doktor Blechle
 
-### Service
-
-#### Beulen
-
+## Beulen-Service
 * Hagelschaden
 * Parkdellen
 * Ausbeulen ohne zu Lackieren
-* Kastanienschäden
+* Kastanienschäden 
+
+## Vorteile
+* keine Neulackierung → keine Farb- und Strukturunterschiede
+* schnell
+* kostengünstig
+* innerhalb von 48 Stunden 
+* Werterhalt von Oldtimern
 
 # Kontakt
 Wolfgang Ramsl
